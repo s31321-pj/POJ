@@ -1,0 +1,6 @@
+Drink: COFFEE , Size: S, Additions: [ALCOHOL], Price: 11,00
+Drink: COFFEE , Size: M, Additions: [MILK], Price: 9,00
+Drink: TEA , Size: M, Additions: [RUM], Price: 8,55
+Drink: TEA , Size: S, Additions: [SUGAR], Price: 3,00
+Drink: TEA , Size: S, Additions: [SUGAR], Price: 3,00
+Drink: TEA , Size: S, Additions: [RUM], Price: 7,50
